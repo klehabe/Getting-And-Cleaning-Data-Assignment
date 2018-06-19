@@ -5,7 +5,7 @@ Version 1.0
 Compiled by : Kgomotso Lehabe
 ==================================================================
 
-This file describes the work done in the creic run_Analysis.R to prepare this file for analysis. This is the data that was collected for an experiment to monitor indivuduals performing different activities while wearing a smartphone on the waist. 
+This file describes the work done in the script run_Analysis.R to prepare this file for analysis. This is the data that was collected for an experiment to monitor indivuduals performing different activities while wearing a smartphone on the waist. 
 
 The step performed:
 ======================================
